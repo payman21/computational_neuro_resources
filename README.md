@@ -103,6 +103,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [ENIGMA TOOLBOX](https://github.com/MICA-MNI/ENIGMA) - The ENIGMA TOOLBOX is an open source repository for (i) accessing 100+ ENIGMA-derived statistical maps, (ii) visualizing and manipulating cortical and subcortical surface data, and (iii) contextualizing neuroimaging findings at the microscale (using postmortem gene expression and cytoarchitecture) and macroscale (using structural and functional connectome data).
 - [netneurotools](https://github.com/justinehansen/netneurotools) - This toolbox is a collection of functions written in Python that get frequent usage in the Network Neuroscience Lab, housed in the Brain Imaging Centre at McGill University.
 - [neuromaps](https://github.com/netneurolab/neuromaps) - The neuromaps toolbox is designed to help researchers make easy, statistically-rigorous comparisons between brain maps (or brain annotations). A handy toolbox that makes comparing brain maps and converting brain maps between template spaces and parcellations easy!
+- [Subcortex visualization software](https://anniegbryant.github.io/subcortex_visualization/) - This visualization package was created to generate two-dimensional subcortex images 
 
 
 ## Books
