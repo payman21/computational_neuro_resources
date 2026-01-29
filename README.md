@@ -43,6 +43,7 @@ Here, you'll find links to various tools, articles, datasets, and more, related 
 - [torch_brain](https://github.com/neuro-galaxy/torch_brain) - torch_brain is a Python library for various deep learning models designed for neuroscience.
 
 ## Code
+-[Neural Strategies](https://russpoldrack.substack.com/)- A SUPER useful source for coding and data management best practices
 - [fast-slow brain network model](https://github.com/BrainModes/fast-slow/) - Code from paper [Learning how network structure shapes decision-making for bio-inspired computing](https://www.nature.com/articles/s41467-023-38626-y)
 - [An Easy-to-Follow Handbook for EEG Data Analysis based on Python](https://osf.io/preprints/psyarxiv/dcmke) - It's designed as a very easy-to-follow learning guide for anyone looking to get started with EEG data processing using Python.
 - [Functio-Structural Current (FSC) analysis](https://github.com/vilsaira/FSC)- Python code to combine functional and structural #brain connectivity (fc&sc) matrices.
