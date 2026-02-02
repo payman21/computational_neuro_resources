@@ -1,4 +1,5 @@
 # Computational Cognitive Neuroscience Resources
+Collected by: Payman Roghani
 
 Here, you'll find links to various tools, articles, datasets, and more, related to the field of Computational Cognitive Neuroscience.
 
